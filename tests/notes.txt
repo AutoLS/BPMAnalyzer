@@ -1,0 +1,10 @@
+test1.ogg - expected bpm: 158
+test2.mp3 - expected bpm: 137
+test3.ogg - expected bpm: 250
+test4.ogg - expected bpm: 150
+test5.ogg - expected bpm: 180 changes: (154844, 170), (166138, 180)
+test6.mp3 - expected bpm: 174 changes: (69312, 174)
+test7.mp3 - expected bpm: 300
+test8.mp3 - expected bpm: 181
+test9.mp3 - expected bpm: 177 changes: (144436, 145), (243742, 177), (304758, 112), (306869, 106), (308969, 49), (315017, 57)
+test10.mp3 - expected bpm: 142 changes: (92114, 103), (129395, 142)
