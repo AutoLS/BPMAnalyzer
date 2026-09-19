@@ -25,7 +25,7 @@ controls.
 
 ### Analyzer
 
-The evidence and the result.
+The analyzed results.
 
 - **File** and **Source** — what was loaded and how it decoded.
 - **Analysis settings** — the knobs, described [below](#configurable-settings).
